@@ -1,0 +1,15 @@
+C:\Users\HP\Exap\RTY\Examples001_HelloConsole\Exapmples002HelloUser\bin\Debug\net6.0\Exapmples002HelloUser.exe
+C:\Users\HP\Exap\RTY\Examples001_HelloConsole\Exapmples002HelloUser\bin\Debug\net6.0\Exapmples002HelloUser.deps.json
+C:\Users\HP\Exap\RTY\Examples001_HelloConsole\Exapmples002HelloUser\bin\Debug\net6.0\Exapmples002HelloUser.runtimeconfig.json
+C:\Users\HP\Exap\RTY\Examples001_HelloConsole\Exapmples002HelloUser\bin\Debug\net6.0\Exapmples002HelloUser.dll
+C:\Users\HP\Exap\RTY\Examples001_HelloConsole\Exapmples002HelloUser\bin\Debug\net6.0\Exapmples002HelloUser.pdb
+C:\Users\HP\Exap\RTY\Examples001_HelloConsole\Exapmples002HelloUser\obj\Debug\net6.0\Exapmples002HelloUser.csproj.AssemblyReference.cache
+C:\Users\HP\Exap\RTY\Examples001_HelloConsole\Exapmples002HelloUser\obj\Debug\net6.0\Exapmples002HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Exap\RTY\Examples001_HelloConsole\Exapmples002HelloUser\obj\Debug\net6.0\Exapmples002HelloUser.AssemblyInfoInputs.cache
+C:\Users\HP\Exap\RTY\Examples001_HelloConsole\Exapmples002HelloUser\obj\Debug\net6.0\Exapmples002HelloUser.AssemblyInfo.cs
+C:\Users\HP\Exap\RTY\Examples001_HelloConsole\Exapmples002HelloUser\obj\Debug\net6.0\Exapmples002HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\HP\Exap\RTY\Examples001_HelloConsole\Exapmples002HelloUser\obj\Debug\net6.0\Exapmples002HelloUser.dll
+C:\Users\HP\Exap\RTY\Examples001_HelloConsole\Exapmples002HelloUser\obj\Debug\net6.0\refint\Exapmples002HelloUser.dll
+C:\Users\HP\Exap\RTY\Examples001_HelloConsole\Exapmples002HelloUser\obj\Debug\net6.0\Exapmples002HelloUser.pdb
+C:\Users\HP\Exap\RTY\Examples001_HelloConsole\Exapmples002HelloUser\obj\Debug\net6.0\Exapmples002HelloUser.genruntimeconfig.cache
+C:\Users\HP\Exap\RTY\Examples001_HelloConsole\Exapmples002HelloUser\obj\Debug\net6.0\ref\Exapmples002HelloUser.dll
